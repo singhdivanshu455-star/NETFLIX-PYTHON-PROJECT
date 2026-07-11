@@ -93,31 +93,31 @@ Created multiple visualizations using:
 
 ### 🎬 Movies vs TV Shows
 
-![Movies vs TV Shows](movies_vs_tvshows.png)
+![Movies vs TV Shows](movies_vs_tvshows%20(1).png)
 
 ---
 
 ### 🌍 Top 10 Countries
 
-![Top 10 Countries](top_10_countries.png)
+![Top 10 Countries](top_10_countries%20(1).png)
 
 ---
 
 ### 🎭 Top 10 Genres
 
-![Top 10 Genres](top_10_genres.png)
+![Top 10 Genres](top_10_genres%20(1).png)
 
 ---
 
 ### 🎬 Top 10 Directors
 
-![Top 10 Directors](top_10_directors.png)
+![Top 10 Directors](top_10_directors%20(1).png)
 
 ---
 
 ### ⭐ Top 10 Actors
 
-![Top 10 Actors](top_10_actors.png)
+![Top 10 Actors](top_10_actors%20(1).png)
 
 ---
 
@@ -126,14 +126,14 @@ Created multiple visualizations using:
 ```text
 NETFLIX-data-analysis/
 │
-├── NETFLIX.ipynb
+├── NETFLIX (2).html
 ├── netflix_titles.csv
 ├── README.md
-├── movies_vs_tvshows.png
-├── top_10_countries.png
-├── top_10_genres.png
-├── top_10_directors.png
-└── top_10_actors.png
+├── movies_vs_tvshows (1).png
+├── top_10_countries (1).png
+├── top_10_genres (1).png
+├── top_10_directors (1).png
+└── top_10_actors (1).png
 ```
 
 ---
@@ -158,13 +158,9 @@ pip install pandas numpy matplotlib seaborn
 jupyter notebook
 ```
 
-### 4️⃣ Open
+### 4️⃣ Open the Notebook
 
-```text
-NETFLIX.ipynb
-```
-
-Run all cells to reproduce the complete analysis.
+Open the `.html`/`.ipynb` file in the repo and run all cells to reproduce the complete analysis.
 
 ---
 
